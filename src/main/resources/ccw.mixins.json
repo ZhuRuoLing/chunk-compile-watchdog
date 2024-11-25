@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "icu.takeneko.ccw.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChunkRebuildTaskMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
